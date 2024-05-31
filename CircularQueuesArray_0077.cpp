@@ -106,6 +106,5 @@ int main(){
     while (true){
         try{
             cout << "Menu" << endl;
+            cout << "1. Implemnet insert operation" << endl;
             
-
-
