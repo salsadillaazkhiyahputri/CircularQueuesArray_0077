@@ -22,5 +22,3 @@ public:
             cout <<"\nQueue overflow\n";
             return;
         }
-    }
-}
