@@ -107,4 +107,6 @@ int main(){
         try{
             cout << "Menu" << endl;
             cout << "1. Implemnet insert operation" << endl;
+            cout << "2. Implemnet delete operation" << endl;
             
+
